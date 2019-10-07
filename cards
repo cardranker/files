@@ -1,30 +1,32 @@
-{
-  "items": [
+{"items": [
     {
       "Capital One® Venture® Rewards": [
         {
-          "fee": "1",
-          "benefits": "3",
           "issuer": "Capital One",
-          "annual fee": "$49",
-          "our take": "Wxtra",
-          "credit needed": "excellent<br><br>good",
           "image": "http://cardrankerstag.wpengine.com/wp-content/uploads/2019/08/capital-one-venture-1024x645.jpg",
-          "alt": "Capital One® Venture® Rewards Credit Card",
           "title": "Capital One® Venture® Rewards",
           "width": "256",
           "height": "161",
-          "Rating": "⭐⭐⭐⭐⭐"
-        }
+          "rating": "⭐⭐⭐⭐",
+          "cta title": "Capital One®<br>Venture® Rewards",
+          "link": "https://www.capitalone.com/credit-cards/venture/?from=cardranker",
+          "bottom line": "Great travel rewards card with flexible miles and a bonus offer of 50,000 miles after you spend $3,000 within 90 days of account opening. The miles can be applied to airlines, hotels, and car rentals too.",
+"regular apr": "17.99% - 25.24% (Variable)",
+"intro purchase apr": "N/A",
+"intro balance transfer apr": "N/A",
+"rewards rate": "2 Miles per dollar on all purchases",
+ "credit needed": "(670 - 850) Excellent/Good",
+"annual fee": "$0 intro for first year; $95 after that",
+"card network": "Mastercard®",
+"highlights": "ds"
+}
       ],
       "american": [
         {
           "fee": "1",
           "benefits": "3",
           "issuer": "american",
-          "annual fee": "$49",
-          "our take": "extra",
-          "credit needed": "excellent<br><br>good"
+          "our take": "extra"
         }
       ]
     }
