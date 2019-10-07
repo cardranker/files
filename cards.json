@@ -1,12 +1,26 @@
 {
   "items": [
-    {  
+    { 
+"capital" : [ 
+  {
       "fee": "1",
       "benefits": "3",
       "issuer": "Citi",
       "annual fee": "$49",
       "our take": "extra",
       "credit needed": "excellent<br><br>good"
+  }
+"american" : [ 
+  {
+      "fee": "1",
+      "benefits": "3",
+      "issuer": "Citi",
+      "annual fee": "$49",
+      "our take": "extra",
+      "credit needed": "excellent<br><br>good"
+  }
+  
+ ]
     }
   ]
 }
