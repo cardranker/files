@@ -1,7 +1,7 @@
 {
   "items": [
     { 
-"capital": [ 
+"Capital One® Venture® Rewards": [ 
   {
       "fee": "1",
       "benefits": "3",
@@ -10,6 +10,8 @@
       "our take": "extra",
       "credit needed": "excellent<br><br>good",
       "image": "http://cardrankerstag.wpengine.com/wp-content/uploads/2019/08/capital-one-venture-1024x645.jpg"
+      "alt": "Capital One® Venture® Rewards Credit Card"
+      "title": "Capital One® Venture® Rewards"
   }
 ],
 "american": [ 
