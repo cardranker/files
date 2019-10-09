@@ -2665,7 +2665,7 @@
           "rating value": "4"
         }
       ],
-      "USAA® Rewards™ American Express Review": [
+      "a": [
         {
           "issuer": "American Express",
           "image": "https://cardranker.com/wp-content/uploads/2019/09/american-express-usaa-rewards-1-300x190.png",
@@ -2701,7 +2701,7 @@
           "rating value": "4"
         }
       ],
-      "aUSAA® Cashback Rewards™ American Express": [
+      "b": [
         {
           "issuer": "American Express",
           "image": "https://cardranker.com/wp-content/uploads/2019/09/american-express-usaa-cashback-rewards-plus-300x192.png",
